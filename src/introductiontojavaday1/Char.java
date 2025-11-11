@@ -7,7 +7,6 @@ public class Char {
 		char ch = 'a';
 		System.out.println(ch);
 
-		// assigning number to char
 		char ch1 = 65;
 		System.out.println(ch1);
 
@@ -23,4 +22,5 @@ public class Char {
 		int a = 'A';
 		System.out.println(a);
 	}
+
 }
